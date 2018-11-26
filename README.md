@@ -2,6 +2,7 @@ s2client-api
 ============
 
 [![Build Status](https://travis-ci.org/Blizzard/s2client-api.png?branch=master)](https://travis-ci.org/Blizzard/s2client-api)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-api?ref=badge_shield)
 
 The StarCraft II API provides access to in-game state observation and unit control. The API is a wrapper around protobuf defined protocol over a websocket connection.
 
@@ -102,3 +103,7 @@ If you are using Visual Studio 2017 and just want precompiled library files you 
 Additional community built AI libraries can be found [here](https://github.com/Blizzard/s2client-proto#community).
 
 If you are new to programming, the [CommandCenter](https://github.com/davechurchill/CommandCenter) framework may be a good starting point.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-api?ref=badge_large)
